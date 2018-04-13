@@ -5,3 +5,5 @@ google_analytics: UA-117510135-1
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+twitter:
+  - username: diegobiavati
