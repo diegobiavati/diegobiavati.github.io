@@ -2,3 +2,5 @@ theme: jekyll-theme-leap-day
 title: Diego E F Biavati
 description: Página Pessoal
 google_analytics: UA-117510135-1
+plugins:
+  - jekyll-sitemap
