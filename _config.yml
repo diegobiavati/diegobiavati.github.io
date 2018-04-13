@@ -9,5 +9,6 @@ plugins:
   - jekyll-mentions
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jemoji
 twitter:
   - username: diegobiavati
