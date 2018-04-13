@@ -6,6 +6,7 @@ url: https://diegobiavati.github.io
 google_analytics: UA-117510135-1
 plugins:
   - jekyll-feed
+  - jekyll-mentions
   - jekyll-seo-tag
   - jekyll-sitemap
 twitter:
