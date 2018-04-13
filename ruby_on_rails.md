@@ -1,7 +1,2 @@
-Aqui vou colocar o que eu acho interessante do RoR.
-```ruby
-class Pessoa
-  def initialize
-  end
-end
-```
+## Melhores Gems ##
+* [Github Changelog Generator](https://github.com/skywinder/github-changelog-generator) - *Automatically generate change log from your tags, issues, labels and pull requests on GitHub.*
