@@ -5,7 +5,8 @@ author: Diego Eduardo Ferreira Biavati
 url: https://diegobiavati.github.io
 google_analytics: UA-117510135-1
 plugins:
-  - jekyll-sitemap
+  - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 twitter:
   - username: diegobiavati
