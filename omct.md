@@ -1,0 +1,15 @@
+# Organizações Militares do Corpo de Tropa (OMCT) #
+
++ 20º Regimento de Cavalaria Blindado - (Campo Grande/MS)
++ 12º GAC (Jundiaí/SP)
++ 1º GAAAe (Rio de Janeiro/RJ)
++ 41º BIMtz (Jataí/GO)
++ 4º BPE (Recife/PE)
++ 14º GAC (Pouso Alegre/MG)
++ 23º BC (Fortaleza/CE)
++ 6º RCB (Alegrete/RS)
++ 23º BI (Blumenau/SC)
++ 10º BI (Juiz de Fora/MG)
++ 4º GAC (Juiz de Fora/MG)
++ 13° R C Mec - (Pirassununga/SP)
++ 16º Batalhão de Infantaria Motorizado (16º B I Mtz) - (Natal/RN)
