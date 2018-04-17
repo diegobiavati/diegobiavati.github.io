@@ -9,4 +9,4 @@ title: Ruby on Rails
 * [hothero/awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) - *A collection of awesome Ruby Gems for Rails development.*
 
 ### 3. Cursos e Apostilas ###
-* [Udemy - @jacksonpires](https://www.udemy.com/rubyonrails/learn/v4/overview)* 
+* [Udemy - Jackson Pires](https://www.udemy.com/rubyonrails/learn/v4/overview)* - @jacksonpires
