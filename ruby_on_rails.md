@@ -1,6 +1,6 @@
 ---
 title: Ruby on Rails
-author: @diegobiavati
+author: diegobiavati
 ---
 # Ruby on Rails #
 ### 1. Cursos e Apostilas ###
