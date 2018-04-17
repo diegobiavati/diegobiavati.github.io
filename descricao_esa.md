@@ -13,4 +13,6 @@ Após a conclusão do período básico, o aluno escolhe sua qualificação milit
 
 ## Período de Qualificação ##
 
-Neste período, bastante dinâmico, o aluno recebe instruções específicas das armas de Infantaria, Cavalaria, Artilharia, Engenharia e Comunicações, oportunidade em que o espírito de corpo da arma =desenvolvido/consolidado=
+Neste período, bastante dinâmico, o aluno recebe instruções específicas das armas de Infantaria, Cavalaria, Artilharia, Engenharia e Comunicações, oportunidade em que o espírito de corpo da arma ~~desenvolvido/consolidado~~.
+
+A formação profissional do Sargento Combatente de Exército é a razão de ser da Escola. Ao final do curso, o concludente é declarado 3º Sargento de Carreira Combatente do Exército Brasileiro e será o líder das pequenas frações, dotado de vários valores desenvolvidos durante a formação, dentre os quais destacamos: a 
