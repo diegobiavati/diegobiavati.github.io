@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 1. [Ruby on Rails](https://diegobiavati.github.io/ruby_on_rails)
 2. [Blender]()
-3. [Escola de Sargentos das Armas](https://diegobiavati.github.io/descrica_esa)
+3. [Escola de Sargentos das Armas](https://diegobiavati.github.io/descricao_esa)
 
 ### Markdown
 
