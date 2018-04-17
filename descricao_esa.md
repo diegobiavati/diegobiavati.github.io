@@ -8,3 +8,4 @@ A formação do aluno da ESA é dividida em dois períodos: "Básico" e de "Qual
 
 O período básico é realizado em 12 (doze) Organizações Militares de Corpo de Tropa (OMCT), supervisionadas pela ESA, localizadas de norte a sul do território nacional. Este período tem a duração  atualmente de 34 (trinta e quatro) semanas  e promoverá ao aluno o alinhamento com o período de qualificação. Com a implantação do Curso de Tecnólogo, o período básico terá a duração aproximada de 43 (quarenta e três) semanas.
 
+Após a conclusão do período básico, o aluno escolhe sua qualificação militar de Sargentos, conforme mérito intelectual. O período de qualificação terá a duração de 43 semanas. No que diz respeito às Armas, o período de qualificação é conduzido integralmente, na ESA. 
