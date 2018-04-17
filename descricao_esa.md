@@ -15,4 +15,4 @@ Após a conclusão do período básico, o aluno escolhe sua qualificação milit
 
 Neste período, bastante dinâmico, o aluno recebe instruções específicas das armas de Infantaria, Cavalaria, Artilharia, Engenharia e Comunicações, oportunidade em que o espírito de corpo da arma ~~desenvolvido/consolidado~~.
 
-A formação profissional do Sargento Combatente de Exército é a razão de ser da Escola. Ao final do curso, o concludente é declarado 3º Sargento de Carreira Combatente do Exército Brasileiro e será o líder das pequenas frações, dotado de vários valores desenvolvidos durante a formação, dentre os quais destacamos: a 
+A formação profissional do Sargento Combatente de Exército é a razão de ser da Escola. Ao final do curso, o concludente é declarado 3º Sargento de Carreira Combatente do Exército Brasileiro e ocupará os cargos previstos nos Quadro de Organização da Força Terrestre, nos quais terá a oportunidade de ~~aplicar/desenvolver~~ diversos atributos e volores. Ainda neste contexto, ressalta-se a liderança junto às pequenas frações tã necessária para enfrentar os desafios do século XXI com profissionalismo e comprometimento com o nosso Exército Brasileiro.
