@@ -7,3 +7,6 @@ title: Ruby on Rails
 
 ### 2. Fontes de Gems ###
 * [hothero/awesome-rails-gem](https://github.com/hothero/awesome-rails-gem) - *A collection of awesome Ruby Gems for Rails development.*
+
+### 3. Cursos e Apostilas ###
+* [Udemy - @jacksonpires](https://www.udemy.com/rubyonrails/learn/v4/overview)* 
