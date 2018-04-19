@@ -25,7 +25,7 @@ O período básico é realizado em 12 (doze) Organizações Militares de Corpo d
 + 13° R C Mec - (Pirassununga/SP)
 + 16º Batalhão de Infantaria Motorizado (16º B I Mtz) - (Natal/RN)
 
-Após a conclusão do período básico, o aluno escolhe sua qualificação militar de Sargentos, conforme mérito intelectual. O período de qualificação terá a duração de 43 semanas. No que diz respeito às Armas. O período de qualificação é conduzido integralmente, na ESA. No que tange a logística, a qualificação é realizada na [Escola de Sargentos de Logística (EsSLog)](http://www.eb.mil.br/web/ingresso/escolas-militares-rm/-/asset_publisher/Hu01BuhccNZ8/content/escola-de-sargentos-de-logistica-esslog-?inheritRedirect=false), no Rio de Janeiro/RJ e no que se refere a qualificação de Aviação do Exército, esta é realizada no [Centro de Instrução de Aviação do Exército, em Taubaté/SP (CIAVEx)](http://www.ciavex.eb.mil.br/).
+Após a conclusão do período básico, o aluno escolhe sua qualificação militar de Sargentos, conforme mérito intelectual. O período de qualificação terá a duração de 43 semanas. No que diz respeito às Armas. O período de qualificação é conduzido integralmente, na ESA. No que tange a logística, a qualificação é realizada na [Escola de Sargentos de Logística (EsSLog)](http://www.eb.mil.br/web/ingresso/escolas-militares-rm/-/asset_publisher/Hu01BuhccNZ8/content/escola-de-sargentos-de-logistica-esslog-?inheritRedirect=false), no Rio de Janeiro/RJ e no que se refere a qualificação de Aviação do Exército, esta é realizada no [Centro de Instrução de Aviação do Exército](http://www.ciavex.eb.mil.br/), em Taubaté/SP (CIAVEx).
 
 ## Período de Qualificação ##
 
