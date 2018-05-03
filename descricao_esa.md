@@ -35,7 +35,7 @@ A formação profissional do Sargento Combatente de Exército é a razão de ser
       + Ter concluído ou estar concluindo o Ensino Médio
       + Altura: 1,60 m para homens e 1,55 para mulheres
 
-   **1. Música**
+   1. *Música*
       + Sexo masculino ou feminino, nascidos entre 1 de jan 1993 a 31 de dez 2002
       + Ter concluído ou estar concluindo o Ensino Médio
       + Ter conhecimento em teoria e prática musical
