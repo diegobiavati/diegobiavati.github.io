@@ -31,20 +31,20 @@ A formação profissional do Sargento Combatente de Exército é a razão de ser
 
 ## Requisitos Mínimos ##
    _Combatente, Logística-Técnica e Aviação_  
-     + Sexo masculino ou feminino (somente para Logística e Aviação), nascidos entre 1 de jan de 1995  a 31 de Dez de 2002.
-     + Ter concluído ou estar concluindo o Ensino Médio
-     + Altura: 1,60 m para homens e 1,55 para mulheres.
+   + Sexo masculino ou feminino (somente para Logística e Aviação), nascidos entre 1 de jan de 1995  a 31 de Dez de 2002.
+   + Ter concluído ou estar concluindo o Ensino Médio
+   + Altura: 1,60 m para homens e 1,55 para mulheres
 
-    _Música_
-     + Sexo masculino ou feminino, nascidos entre 1 de jan 1993 a 31 de dez 2002
-     + Ter concluído ou estar concluindo o Ensino Médio
-     + Ter conhecimento em teoria e prática musical
-     + Altura: 1,60 m para homens e 1,55 para mulheres.
+   _Música_
+   + Sexo masculino ou feminino, nascidos entre 1 de jan 1993 a 31 de dez 2002
+   + Ter concluído ou estar concluindo o Ensino Médio
+   + Ter conhecimento em teoria e prática musical
+   + Altura: 1,60 m para homens e 1,55 para mulheres.
 
-    _Saúde_  
-     + Sexo masculino ou feminino, nascidos entre 1 de jan 1993 a 31 de dez 2002
-     + Ter concluído curso técnico de enfermagem na data da matrícula e possuir registro no COREN
-     + Altura: 1,60 m para homens e 1,55 para mulheres.
+   _Saúde_  
+   + Sexo masculino ou feminino, nascidos entre 1 de jan 1993 a 31 de dez 2002
+   + Ter concluído curso técnico de enfermagem na data da matrícula e possuir registro no COREN
+   + Altura: 1,60 m para homens e 1,55 para mulheres.
 
 ## Sites ##
 [Concurdo de Admissão - ESA](https://concurso.esa.eb.mil.br)  
