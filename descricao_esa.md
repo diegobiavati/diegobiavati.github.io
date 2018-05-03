@@ -10,7 +10,6 @@ A formação do aluno da ESA é dividida em dois períodos: "Básico" e de "Qual
 O período básico é realizado em 12 (doze) Organizações Militares de Corpo de Tropa (OMCT), supervisionadas pela ESA, localizadas de norte a sul do território nacional. Este período tem a atual duraçõa de 34 (trinta e quatro) semanas  e antecedendo e preparando o aluno para o período de qualificação. Com a implantação do Curso de Tecnólogo, o período básico terá a duração aproximada de 43 (quarenta e três) semanas.
 
 ### Organizações Militares do Corpo de Tropa (OMCT) ###
-
 + 20º Regimento de Cavalaria Blindado - (Campo Grande/MS)
 + 12º GAC (Jundiaí/SP)
 + 1º GAAAe (Rio de Janeiro/RJ)
@@ -35,9 +34,9 @@ A formação profissional do Sargento Combatente de Exército é a razão de ser
 
 ## Requisitos Mínimos ##
 *Combatente, Logística-Técnica e Aviação*
-- Sexo masculino ou feminino (somente para Logística e Aviação), nascidos entre 1 de jan de 1995  a 31 de Dez de 2002.
-- Ter concluído ou estar concluindo o Ensino Médio
-- Altura: 1,60 m para homens e 1,55 para mulheres.
++ Sexo masculino ou feminino (somente para Logística e Aviação), nascidos entre 1 de jan de 1995  a 31 de Dez de 2002.
++ Ter concluído ou estar concluindo o Ensino Médio
++ Altura: 1,60 m para homens e 1,55 para mulheres.
 
 *Música*
 - Sexo masculino ou feminino, nascidos entre 1 de jan 1993 a 31 de dez 2002
