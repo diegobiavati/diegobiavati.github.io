@@ -14,7 +14,6 @@ O período básico é realizado em 12 (doze) Organizações Militares de Corpo d
 + 12º GAC (Jundiaí/SP)
 + 1º GAAAe (Rio de Janeiro/RJ)
 + 41º BIMtz (Jataí/GO)
-+ 4º BPE (Recife/PE)
 + 14º GAC (Pouso Alegre/MG)
 + 23º BC (Fortaleza/CE)
 + 6º RCB (Alegrete/RS)
@@ -50,10 +49,10 @@ A formação profissional do Sargento Combatente de Exército é a razão de ser
 - Altura: 1,60 m para homens e 1,55 para mulheres.
 
 ## Sites ##
-[Concurdo de Admissão](https://concurso.esa.eb.mil.br)
+[Concurdo de Admissão - ESA](https://concurso.esa.eb.mil.br)
 
-[Escola de Sargentos das Armas](https://www.esa.eb.mil.br)
+[Escola de Sargentos das Armas - ESA](https://www.esa.eb.mil.br)
 
-[Escola de Sargentos de Logística](http://www.esslog.eb.mil.br/)
+[Escola de Sargentos de Logística - EsSLog](http://www.esslog.eb.mil.br/)
 
-[Centro de Instrução de Aviação do Exército](http://www.ciavex.eb.mil.br/)
+[Centro de Instrução de Aviação do Exército - CIAvEx](http://www.ciavex.eb.mil.br/)
