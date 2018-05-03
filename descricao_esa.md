@@ -30,18 +30,18 @@ Neste período, bastante dinâmico, o aluno recebe instruções específicas das
 A formação profissional do Sargento Combatente de Exército é a razão de ser da Escola. Ao final do curso, o concludente é declarado 3º Sargento de Carreira Combatente do Exército Brasileiro e ocupará os cargos previstos nos Quadro de Organização da Força Terrestre. Ainda neste contexto, ressalta-se a liderança junto às pequenas frações tã necessária para enfrentar os desafios do século XXI com profissionalismo e comprometimento com o nosso Exército Brasileiro.
 
 ## Requisitos Mínimos ##
-*Combatente, Logística-Técnica e Aviação*
+*Combatente, Logística-Técnica e Aviação*  
 + Sexo masculino ou feminino (somente para Logística e Aviação), nascidos entre 1 de jan de 1995  a 31 de Dez de 2002.
 + Ter concluído ou estar concluindo o Ensino Médio
 + Altura: 1,60 m para homens e 1,55 para mulheres.
 
-*Música*
+*Música*  
 - Sexo masculino ou feminino, nascidos entre 1 de jan 1993 a 31 de dez 2002
 - Ter concluído ou estar concluindo o Ensino Médio
 - Ter conhecimento em teoria e prática musical
 - Altura: 1,60 m para homens e 1,55 para mulheres.
 
-*Saúde*
+*Saúde*  
 - Sexo masculino ou feminino, nascidos entre 1 de jan 1993 a 31 de dez 2002
 - Ter concluído curso técnico de enfermagem na data da matrícula e possuir registro no COREN
 - Altura: 1,60 m para homens e 1,55 para mulheres.
