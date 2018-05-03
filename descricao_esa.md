@@ -6,10 +6,10 @@ A estrutura é composta de alojamentos, refeitórios, salas de aula, laboratóri
 
 A formação do aluno da ESA é dividida em dois períodos: "Básico" e de "Qualificação".
 
-## - Período Básico ##
+## Período Básico ##
 O período básico é realizado em 12 (doze) Organizações Militares de Corpo de Tropa (OMCT), supervisionadas pela ESA, localizadas de norte a sul do território nacional. Este período tem a atual duraçõa de 34 (trinta e quatro) semanas  e antecedendo e preparando o aluno para o período de qualificação. Com a implantação do Curso de Tecnólogo, o período básico terá a duração aproximada de 43 (quarenta e três) semanas.
 
-### - Organizações Militares do Corpo de Tropa (OMCT) ###
+### Organizações Militares do Corpo de Tropa (OMCT) ###
 + 20º Regimento de Cavalaria Blindado - (Campo Grande/MS)
 + 12º GAC (Jundiaí/SP)
 + 1º GAAAe (Rio de Janeiro/RJ)
