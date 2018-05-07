@@ -53,5 +53,5 @@ A formação profissional do Sargento Combatente de Exército é a razão de ser
 [Centro de Instrução de Aviação do Exército - CIAvEx](http://www.ciavex.eb.mil.br/)  
 
 ## Contato ##
-E-Mail: comsoc@esa.ensino.eb.br 
+E-Mail: comsoc@esa.ensino.eb.br
 Telefone: PABX: (35) 3239-4100       Serviço de Atendimento ao Candidato: (35) 3239-4300
