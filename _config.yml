@@ -1,5 +1,5 @@
 theme: minima
-title: Diego E F Biavati
+title: Diego Eduardo Ferreira Biavati
 description: Página Pessoal
 author: Diego Eduardo Ferreira Biavati
 email: diegobiavati@gmail.com
@@ -12,4 +12,6 @@ plugins:
   - jekyll-sitemap
   - jemoji
 twitter:
+  - username: diegobiavati
+facebook:
   - username: diegobiavati
