@@ -1,7 +1,10 @@
 ---
 layout: post
-title:  Hello World!
-date:   2020-07-01 13:54:00
+title:  "Welcome to Jekyll!"
 ---
-Jekyllti
-I Love You World
+
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
