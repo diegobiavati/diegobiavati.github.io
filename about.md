@@ -3,8 +3,6 @@ layout: post
 title:  "Sobre o Autor"
 ---
 
-# Welcome
+# Sobre o Autor
 
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+Este blog tem a finalidade de juntar materiais que poderiam ficar perdidos em uma pasta qualquer, para que assim possam ser úteis em outro momento para o autor ou para outros.
