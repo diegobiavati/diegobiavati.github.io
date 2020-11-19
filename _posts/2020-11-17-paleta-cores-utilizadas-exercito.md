@@ -7,7 +7,7 @@ tags: paleta cor eb rgb cmyk exercito brasileiro
 
 Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro.[^1]
 
-Baixe uma paleta (https://raw.githubusercontent.com/diegobiavati/guia_design_esa_eb/master/paleta_de_Cores_do_ExercitoBrasileiro_EB.gpl)[Clique aqui)]
+Baixe uma paleta GIMP com essas cores [Clique aqui](https://raw.githubusercontent.com/diegobiavati/guia_design_esa_eb/master/paleta_de_Cores_do_ExercitoBrasileiro_EB.gpl)
 
 ## Bandeira do Brasil ##
 
