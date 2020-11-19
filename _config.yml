@@ -11,6 +11,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji
+markdown: GFM
 twitter:
   - username: diegobiavati
 facebook:
