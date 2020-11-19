@@ -11,7 +11,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji
-markdown: GFM
+markdown: kramdown #GFM ou kramdown
 twitter:
   - username: diegobiavati
 facebook:
