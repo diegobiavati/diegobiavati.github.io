@@ -18,7 +18,17 @@ Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro.[^1]
 
 ## Símbolo do Exército ##
 
+|     NOME     |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Verde        |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
+| Amarelo      | 225 | 221 |  33 |   0 |  10 | 100 |   0 |
+
 ## Exército ##
+
+|     NOME     |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Vermelho     | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
+| Azul         |   0 | 152 | 218 | 100 |  20 |   0 |   0 |
 
 ## Armas/Quadros/Serviços ##
 
