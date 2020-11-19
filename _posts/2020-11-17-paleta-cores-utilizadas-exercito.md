@@ -4,7 +4,7 @@ title:  "Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileir
 date: 2020-11-17
 tags: paleta cor eb rgb cmyk exercito brasileiro
 ---
-# Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro #
+# Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro # [^1]
 
 ## Bandeira do Brasil ##
 
@@ -26,13 +26,4 @@ tags: paleta cor eb rgb cmyk exercito brasileiro
 
 ## Referências ##
 
-- [Regulamento de Uniformes do Exército (RUE)](http://pt.calameo.com/read/00123820631730600fea9)
-
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
-|-----------------|------------|-----------------|----------------|
-| First body part |Second cell | Third cell      | fourth cell    |
-| Second line     |foo         | **strong**      | baz            |
-| Third line      |quux        | baz             | bar            |
-| Second body     |            |                 |                |
-| 2 line          |            |                 |                |
-| Footer row      |            |                 |                |
+[^1]: [Regulamento de Uniformes do Exército (RUE)](http://pt.calameo.com/read/00123820631730600fea9)
