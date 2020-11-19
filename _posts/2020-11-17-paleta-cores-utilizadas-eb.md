@@ -8,8 +8,9 @@ tags: paleta cor eb rgb cmyk
 
 ## Bandeira do Brasil ##
 | R | G | B | C | M | Y | Y |  NOME  |
-| - | - | - | - | - | - | - | ------ |
+|---|---|---|---|---|---|---|--------|
 |000|168|089|100|000|100|000| Verde  |
+
 
 ## Símbolo do Exército ##
 
