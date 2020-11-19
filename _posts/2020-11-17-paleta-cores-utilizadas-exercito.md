@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro"
-date: 2020-07-07
+date: 2020-11-17
 tags: paleta cor eb rgb cmyk
 ---
 # Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro #
