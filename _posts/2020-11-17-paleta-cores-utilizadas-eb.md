@@ -22,7 +22,8 @@ tags: paleta cor eb rgb cmyk
 
 
 ## Referências ##
-
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
 | A simple | table |
 | with multiple | lines|
 
