@@ -5,13 +5,11 @@ date: 2020-07-07
 tags: paleta cor eb rgb cmyk
 ---
 # Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro #
-| RGB |
-| R  |  G  |  B |
-| -- |  -- | -- |
-| 0  | 168  | 89 |
 
 ## Bandeira do Brasil ##
-
+| R | G | B | C | M | Y | Y |  NOME  |
+| - | - | - | - | - | - | - | ------ |
+|000|168|089|100|000|100|000| Verde  |
 
 ## Símbolo do Exército ##
 
