@@ -22,6 +22,10 @@ tags: paleta cor eb rgb cmyk
 
 
 ## Referências ##
+
+| A simple | table |
+| with multiple | lines|
+
 - [Regulamento de Uniformes do Exército (RUE)](http://pt.calameo.com/read/00123820631730600fea9)
 |---
 | Default aligned | Left aligned | Center aligned | Right aligned
