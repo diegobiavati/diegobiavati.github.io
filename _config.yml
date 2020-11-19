@@ -15,6 +15,4 @@ markdown: kramdown #GFM ou kramdown
 twitter:
   - username: diegobiavati
 facebook:
-  - username: diegobiavati
-minima:
-  skin: dark
+  - username: diegobiavati 
