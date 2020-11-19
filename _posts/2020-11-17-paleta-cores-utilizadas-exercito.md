@@ -14,7 +14,7 @@ Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro.[^1]
 | Verde        |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
 | Amarelo      | 225 | 221 |  33 |   0 |  10 | 100 |   0 |
 | Azul-Celeste |  25 |  84 | 147 | 100 |  70 |   0 |  20 |
-| Branco       | 000 | 168 | 089 | 100 | 000 | 100 | 000 |
+| Branco       | 254 | 254 | 254 |   0 |   0 |   0 |   0 |
 
 ## Símbolo do Exército ##
 
