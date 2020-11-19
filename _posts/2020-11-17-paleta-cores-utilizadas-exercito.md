@@ -22,6 +22,9 @@ Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro.[^1]
 |:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Verde        |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
 | Amarelo      | 225 | 221 |  33 |   0 |  10 | 100 |   0 |
+| Azul         |   0 | 152 | 218 | 100 |  20 |   0 |   0 |
+| Prata Escura | 132 | 134 | 136 |   0 |   0 |   0 |  60 |
+| Prata Clara  | 230 | 231 | 232 |   0 |   0 |   0 |  10 |
 
 ## Exército ##
 
