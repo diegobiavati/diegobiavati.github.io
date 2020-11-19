@@ -7,6 +7,7 @@ tags: paleta cor eb rgb cmyk
 # Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro #
 
 ## Bandeira do Brasil ##
+
 |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |   NOME   |
 |-----|-----|-----|-----|-----|-----|-----|----------|
 | 000 | 168 | 089 | 100 | 000 | 100 | 000 |  Verde   |
