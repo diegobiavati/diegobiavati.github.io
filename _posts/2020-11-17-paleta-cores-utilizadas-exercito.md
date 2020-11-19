@@ -37,9 +37,11 @@ Baixe uma paleta GIMP com essas cores [Clique aqui](https://raw.githubuserconten
 
 ## Armas/Quadros/Serviços ##
 
-|     NOME     |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
-|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Infantaria   |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
+|          NOME          |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:----------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Infantaria (Verde)     |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
+| Cavalaria (Branco)     | 254 | 254 | 254 |   0 |   0 |   0 |   0 |
+| Cavalaria (Vermelho)   | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
 
 ## Referências ##
 
