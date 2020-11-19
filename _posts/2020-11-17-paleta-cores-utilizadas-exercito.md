@@ -37,6 +37,10 @@ Baixe uma paleta GIMP com essas cores [Clique aqui](https://raw.githubuserconten
 
 ## Armas/Quadros/Serviços ##
 
+|     NOME     |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Infantaria   |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
+
 ## Referências ##
 
 [^1]: [Regulamento de Uniformes do Exército (RUE)](http://pt.calameo.com/read/00123820631730600fea9)
