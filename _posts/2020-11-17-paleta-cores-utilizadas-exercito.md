@@ -7,41 +7,51 @@ tags: paleta cor eb rgb cmyk exercito brasileiro
 
 Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro.[^1]
 
-Baixe uma paleta GIMP com essas cores [Clique aqui](https://raw.githubusercontent.com/diegobiavati/guia_design_esa_eb/master/paleta_de_Cores_do_ExercitoBrasileiro_EB.gpl)
+Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/guia_design_esa_eb/master/paleta_de_Cores_do_ExercitoBrasileiro_EB.gpl) com essas cores. 
 
 ## Bandeira do Brasil ##
 
-|     NOME     |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
-|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Verde        |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
-| Amarelo      | 225 | 221 |  33 |   0 |  10 | 100 |   0 |
-| Azul-Celeste |  25 |  84 | 147 | 100 |  70 |   0 |  20 |
-| Branco       | 254 | 254 | 254 |   0 |   0 |   0 |   0 |
+|             NOME             |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:----------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Verde                        |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
+| Amarelo                      | 225 | 221 |  33 |   0 |  10 | 100 |   0 |
+| Azul-Celeste                 |  25 |  84 | 147 | 100 |  70 |   0 |  20 |
+| Branco                       | 254 | 254 | 254 |   0 |   0 |   0 |   0 |
 
 ## Símbolo do Exército ##
 
-|     NOME     |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
-|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Verde        |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
-| Amarelo      | 225 | 221 |  33 |   0 |  10 | 100 |   0 |
-| Azul         |   0 | 152 | 218 | 100 |  20 |   0 |   0 |
-| Prata Escura | 132 | 134 | 136 |   0 |   0 |   0 |  60 |
-| Prata Clara  | 230 | 231 | 232 |   0 |   0 |   0 |  10 |
+|             NOME             |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:----------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Verde                        |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
+| Amarelo                      | 225 | 221 |  33 |   0 |  10 | 100 |   0 |
+| Azul                         |   0 | 152 | 218 | 100 |  20 |   0 |   0 |
+| Prata Escura                 | 132 | 134 | 136 |   0 |   0 |   0 |  60 |
+| Prata Clara                  | 230 | 231 | 232 |   0 |   0 |   0 |  10 |
 
 ## Exército ##
 
-|     NOME     |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
-|:------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Vermelho     | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
-| Azul         |   0 | 152 | 218 | 100 |  20 |   0 |   0 |
+|             NOME             |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:----------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Vermelho                     | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
+| Azul                         |   0 | 152 | 218 | 100 |  20 |   0 |   0 |
 
 ## Armas/Quadros/Serviços ##
 
-|          NOME          |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
-|:----------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Infantaria (Verde)     |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
-| Cavalaria (Branco)     | 254 | 254 | 254 |   0 |   0 |   0 |   0 |
-| Cavalaria (Vermelho)   | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
+|             NOME             |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:----------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Infantaria (Verde)           |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
+| Cavalaria (1º Branco)        | 254 | 254 | 254 |   0 |   0 |   0 |   0 |
+| Cavalaria (2º Vermelho)      | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
+| Artilharia (Azul-Ultramar)   |   0 | 100 | 168 | 100 |  60 |   0 |  10 |
+| Engenharia (Azul-Turquesa)   | 145 | 216 | 247 |  40 |   0 |   0 |   0 |
+| Comunicações (Azul-Celeste)  |   0 | 152 | 218 | 100 |  20 |   0 |   0 |
+| Intendência (Amarelo)        | 255 | 221 |  33 |   0 |  10 | 100 |   0 |
+| Material Bélico (Cinza)      | 190 | 191 | 193 |   0 |   0 |   0 |  30 |
+| Logística (1º Cinza)         | 190 | 191 | 193 |   0 |   0 |   0 |  30 |
+| Logística (2º Amarelo)       | 255 | 221 |  33 | 100 |  20 | 100 |   0 |
+| Logística (3º Vermelho)      | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
+| Saúde (1º Vermelho)          | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
+| Saúde (2º Vermelho)          | 254 | 254 | 254 |   0 |   0 |   0 |   0 |
 
 ## Referências ##
 
