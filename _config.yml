@@ -12,8 +12,9 @@ plugins:
   - jekyll-sitemap
   - jemoji
 markdown: kramdown #GFM ou kramdown
-social_links:
-  twitter: diegobiavati
-  facebook: diegobiavati
-  instagram: diegobiavati
-  telegram: diegobiavati
+minima:
+  social_links:
+    twitter: diegobiavati
+    facebook: diegobiavati
+    instagram: diegobiavati
+    telegram: diegobiavati
