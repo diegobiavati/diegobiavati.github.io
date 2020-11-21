@@ -12,9 +12,6 @@ plugins:
   - jekyll-sitemap
   - jemoji
 markdown: kramdown #GFM ou kramdown
-twitter:
-  - username: diegobiavati
-facebook:
-  - username: diegobiavati
-minima:
-  skin: solarized
+social_links:
+  twitter: diegobiavati
+  facebook: diegobiavati
