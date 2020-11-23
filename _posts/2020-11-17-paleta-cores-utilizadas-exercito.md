@@ -52,6 +52,13 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 | Logística (3º Vermelho)      | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
 | Saúde (1º Vermelho)          | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
 | Saúde (2º Vermelho)          | 254 | 254 | 254 |   0 |   0 |   0 |   0 |
+| Aviação (Azul-Turquesa)      | 145 | 216 | 247 |  40 |   0 |   0 |   0 |
+
+## PREENCHIMENTO ##
+
+|             NOME             |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:----------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ouro/Dourado (Amarelo Claro) | 232 | 187 |  42 |   0 |  20 | 100 |  10 |
 
 ## Referências ##
 
