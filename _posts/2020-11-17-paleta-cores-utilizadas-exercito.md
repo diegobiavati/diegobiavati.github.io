@@ -67,6 +67,11 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 | Bronze (Preenchimento)         | 187 | 130 |  81 |   0 |  40 |  70 |  30 |
 | Bronza (Fio)                   | 148 | 104 |  67 |   0 |  40 |  70 |  50 |
 
-## Referências ##
+## CAMUFLADO ##
 
+|              NOME              |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|                                |     |     |     |     |     |     |     |
+
+## Referências ##
 [^1]: [Regulamento de Uniformes do Exército (RUE)](http://pt.calameo.com/read/00123820631730600fea9)
