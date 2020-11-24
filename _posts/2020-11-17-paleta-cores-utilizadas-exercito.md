@@ -11,57 +11,60 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 
 ## Bandeira do Brasil ##
 
-|             NOME             |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
-|:----------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Verde                        |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
-| Amarelo                      | 225 | 221 |  33 |   0 |  10 | 100 |   0 |
-| Azul-Celeste                 |  25 |  84 | 147 | 100 |  70 |   0 |  20 |
-| Branco                       | 254 | 254 | 254 |   0 |   0 |   0 |   0 |
+|              NOME              |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Verde                          |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
+| Amarelo                        | 225 | 221 |  33 |   0 |  10 | 100 |   0 |
+| Azul-Celeste                   |  25 |  84 | 147 | 100 |  70 |   0 |  20 |
+| Branco                         | 254 | 254 | 254 |   0 |   0 |   0 |   0 |
 
 ## Símbolo do Exército ##
 
-|             NOME             |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
-|:----------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Verde                        |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
-| Amarelo                      | 225 | 221 |  33 |   0 |  10 | 100 |   0 |
-| Azul                         |   0 | 152 | 218 | 100 |  20 |   0 |   0 |
-| Prata Escura                 | 132 | 134 | 136 |   0 |   0 |   0 |  60 |
-| Prata Clara                  | 230 | 231 | 232 |   0 |   0 |   0 |  10 |
+|              NOME              |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Verde                          |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
+| Amarelo                        | 225 | 221 |  33 |   0 |  10 | 100 |   0 |
+| Azul                           |   0 | 152 | 218 | 100 |  20 |   0 |   0 |
+| Prata Escura                   | 132 | 134 | 136 |   0 |   0 |   0 |  60 |
+| Prata Clara                    | 230 | 231 | 232 |   0 |   0 |   0 |  10 |
 
 ## Exército ##
 
-|             NOME             |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
-|:----------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Vermelho                     | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
-| Azul                         |   0 | 152 | 218 | 100 |  20 |   0 |   0 |
+|              NOME              |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Vermelho                       | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
+| Azul                           |   0 | 152 | 218 | 100 |  20 |   0 |   0 |
 
 ## Armas/Quadros/Serviços ##
 
-|             NOME             |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
-|:----------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Infantaria (Verde)           |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
-| Cavalaria (1º Branco)        | 254 | 254 | 254 |   0 |   0 |   0 |   0 |
-| Cavalaria (2º Vermelho)      | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
-| Artilharia (Azul-Ultramar)   |   0 | 100 | 168 | 100 |  60 |   0 |  10 |
-| Engenharia (Azul-Turquesa)   | 145 | 216 | 247 |  40 |   0 |   0 |   0 |
-| Comunicações (Azul-Celeste)  |   0 | 152 | 218 | 100 |  20 |   0 |   0 |
-| Intendência (Amarelo)        | 255 | 221 |  33 |   0 |  10 | 100 |   0 |
-| Material Bélico (Cinza)      | 190 | 191 | 193 |   0 |   0 |   0 |  30 |
-| Logística (1º Cinza)         | 190 | 191 | 193 |   0 |   0 |   0 |  30 |
-| Logística (2º Amarelo)       | 255 | 221 |  33 | 100 |  20 | 100 |   0 |
-| Logística (3º Vermelho)      | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
-| Saúde (1º Vermelho)          | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
-| Saúde (2º Vermelho)          | 254 | 254 | 254 |   0 |   0 |   0 |   0 |
-| Aviação (Azul-Turquesa)      | 145 | 216 | 247 |  40 |   0 |   0 |   0 |
+|              NOME              |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Infantaria (Verde)             |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
+| Cavalaria (1º Branco)          | 254 | 254 | 254 |   0 |   0 |   0 |   0 |
+| Cavalaria (2º Vermelho)        | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
+| Artilharia (Azul-Ultramar)     |   0 | 100 | 168 | 100 |  60 |   0 |  10 |
+| Engenharia (Azul-Turquesa)     | 145 | 216 | 247 |  40 |   0 |   0 |   0 |
+| Comunicações (Azul-Celeste)    |   0 | 152 | 218 | 100 |  20 |   0 |   0 |
+| Intendência (Amarelo)          | 255 | 221 |  33 |   0 |  10 | 100 |   0 |
+| Material Bélico (Cinza)        | 190 | 191 | 193 |   0 |   0 |   0 |  30 |
+| Logística (1º Cinza)           | 190 | 191 | 193 |   0 |   0 |   0 |  30 |
+| Logística (2º Amarelo)         | 255 | 221 |  33 | 100 |  20 | 100 |   0 |
+| Logística (3º Vermelho)        | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
+| Saúde (1º Vermelho)            | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
+| Saúde (2º Vermelho)            | 254 | 254 | 254 |   0 |   0 |   0 |   0 |
+| Aviação (Azul-Turquesa)        | 145 | 216 | 247 |  40 |   0 |   0 |   0 |
 
-## PREENCHIMENTO ##
+## PREENCHIMENTO/FIO ##
 
-|             NOME             |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
-|:----------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Ouro/Dourado (Amarelo Claro) | 232 | 187 |  42 |   0 |  20 | 100 |  10 |
-| Ouro/Dourado (Amarelo Escuro)| 191 | 155 |  41 |   0 |  20 | 100 |  30 |
-| Prata/Prateado (Cinza Claro) | 200 | 202 | 204 |   0 |   0 |   0 |  25 |
-| Prata/Prateado (Cinza Escuro)| 160 | 162 | 165 |   0 |   0 |   0 |  45 |
+|              NOME              |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Ouro/Dourado (Preenchimento)   | 232 | 187 |  42 |   0 |  20 | 100 |  10 |
+| Ouro/Dourado (Fio)             | 191 | 155 |  41 |   0 |  20 | 100 |  30 |
+| Prata/Prateado (Preenchimento) | 200 | 202 | 204 |   0 |   0 |   0 |  25 |
+| Prata/Prateado (Fio)           | 160 | 162 | 165 |   0 |   0 |   0 |  45 |
+| Cobre (Preenchimento)          | 142 | 112 |  89 |  55 |  65 |  80 |  30 |
+| Cobre (Fio)                    | 120 |  96 |  77 |  59 |  65 |  80 |  20 |
+
 
 ## Referências ##
 
