@@ -60,6 +60,8 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 |:----------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Ouro/Dourado (Amarelo Claro) | 232 | 187 |  42 |   0 |  20 | 100 |  10 |
 | Ouro/Dourado (Amarelo Escuro)| 191 | 155 |  41 |   0 |  20 | 100 |  30 |
+| Prata/Prateado (Cinza Claro) | 200 | 202 | 204 |   0 |   0 |   0 |  25 |
+| Prata/Prateado (Cinza Escuro)| 160 | 162 | 165 |   0 |   0 |   0 |  45 |
 
 ## Referências ##
 
