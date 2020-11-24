@@ -64,7 +64,8 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 | Prata/Prateado (Fio)           | 160 | 162 | 165 |   0 |   0 |   0 |  45 |
 | Cobre (Preenchimento)          | 142 | 112 |  89 |  55 |  65 |  80 |  30 |
 | Cobre (Fio)                    | 120 |  96 |  77 |  59 |  65 |  80 |  20 |
-
+| Bronze (Preenchimento)         | 187 | 130 |  81 |   0 |  40 |  70 |  30 |
+| Bronza (Fio)                   | 148 | 104 |  67 |   0 |  40 |  70 |  50 |
 
 ## Referências ##
 
