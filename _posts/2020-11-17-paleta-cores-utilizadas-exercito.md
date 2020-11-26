@@ -67,13 +67,14 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 | Bronze (Preenchimento)         | 187 | 130 |  81 |   0 |  40 |  70 |  30 |
 | Bronza (Fio)                   | 148 | 104 |  67 |   0 |  40 |  70 |  50 |
 
-## CAMUFLADO ##
+## UNIFORMES ##
 
 |              NOME              |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
 |:------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Sobrecor                       |  43 |  45 |  36 |  69 |  60 |  75 |  81 |
-| Marrom                         |  73 |  57 |  46 |  53 |  68 |  82 |  68 |
-|                                |     |     |     |     |     |     |     |
+| Camuflado (Sobrecor)           |  43 |  45 |  36 |  69 |  60 |  75 |  81 |
+| Camuflado (Marrom)             |  73 |  57 |  46 |  53 |  68 |  82 |  68 |
+| Camuflado (Verde-Escuro)       |  29 |  55 |  36 |  80 |  53 |  81 |  75 |
+| Camuflado (Verde-Claro)        | 132 | 132 | 114 |  51 |  40 |  58 |  11 |
 
 
 ## Referências ##
