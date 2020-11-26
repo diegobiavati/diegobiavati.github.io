@@ -54,7 +54,7 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 | Saúde (2º Vermelho)            | 254 | 254 | 254 |   0 |   0 |   0 |   0 |
 | Aviação (Azul-Turquesa)        | 145 | 216 | 247 |  40 |   0 |   0 |   0 |
 
-## PREENCHIMENTO/FIO ##
+## Preenchimento/Fio ##
 
 |              NOME              |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
 |:------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -67,7 +67,7 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 | Bronze (Preenchimento)         | 187 | 130 |  81 |   0 |  40 |  70 |  30 |
 | Bronza (Fio)                   | 148 | 104 |  67 |   0 |  40 |  70 |  50 |
 
-## UNIFORMES ##
+## Uniformes ##
 
 |              NOME              |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
 |:------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -75,7 +75,8 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 | Camuflado (Marrom)             |  73 |  57 |  46 |  53 |  68 |  82 |  68 |
 | Camuflado (Verde-Escuro)       |  29 |  55 |  36 |  80 |  53 |  81 |  75 |
 | Camuflado (Verde-Claro)        | 132 | 132 | 114 |  51 |  40 |  58 |  11 |
-
+| Cinza (Claro)                  | 210 | 211 | 213 |   0 |   0 |   0 |  20 |
+| Cinza (Aço)                    | 210 | 211 | 213 |   0 |   0 |   0 |  20 |
 
 ## Referências ##
 [^1]: [Regulamento de Uniformes do Exército (RUE)](http://pt.calameo.com/read/00123820631730600fea9)
