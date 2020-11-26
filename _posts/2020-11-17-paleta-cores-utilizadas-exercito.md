@@ -76,7 +76,7 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 | Camuflado (Verde-Escuro)       |  29 |  55 |  36 |  80 |  53 |  81 |  75 |
 | Camuflado (Verde-Claro)        | 132 | 132 | 114 |  51 |  40 |  58 |  11 |
 | Cinza (Claro)                  | 210 | 211 | 213 |   0 |   0 |   0 |  20 |
-| Cinza (Aço)                    | 210 | 211 | 213 |   0 |   0 |   0 |  20 |
+| Cinza (Aço)                    | 189 | 191 | 193 |   0 |   0 |   0 |  30 |
 
 ## Referências ##
 [^1]: [Regulamento de Uniformes do Exército (RUE)](http://pt.calameo.com/read/00123820631730600fea9)
