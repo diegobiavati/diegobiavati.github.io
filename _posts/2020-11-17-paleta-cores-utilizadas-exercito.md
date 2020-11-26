@@ -73,6 +73,7 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 |:------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Sobrecor                       |  43 |  45 |  36 |  69 |  60 |  75 |  81 |
 | Marrom                         |  73 |  57 |  46 |  53 |  68 |  82 |  68 |
+|                                |     |     |     |     |     |     |     |
 
 
 ## Referências ##
