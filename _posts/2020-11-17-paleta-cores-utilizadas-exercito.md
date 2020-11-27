@@ -77,6 +77,12 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 | Camuflado (Verde-Claro)        | 132 | 132 | 114 |  51 |  40 |  58 |  11 |
 | Cinza (Claro)                  | 210 | 211 | 213 |   0 |   0 |   0 |  20 |
 | Cinza (Aço)                    | 189 | 191 | 193 |   0 |   0 |   0 |  30 |
+| Cinza (Escuro)                 | 169 | 171 | 174 |   0 |   0 |   0 |  40 |
+| Cinza (Escuro)                 | 169 | 171 | 174 |   0 |   0 |   0 |  40 |
+| Preto/Negro                    |  55 |  52 |  53 |   0 |   0 |   0 | 100 |
+| Calçado (Preto)                |  38 |  48 |  54 |  40 |   0 |   0 | 100 |
+| Vermelho                       | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
+| Vermelho-Tecido/Grená/Garança  | 127 |  52 |  54 |  30 |  95 |  85 |  40 |
 
 ## Referências ##
 [^1]: [Regulamento de Uniformes do Exército (RUE)](http://pt.calameo.com/read/00123820631730600fea9)
