@@ -9,7 +9,7 @@ google_analytics: UA-117510135-1
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-markdown: kramdown #GFM ou kramdown
+markdown: GFM #GFM ou kramdown
 minima:
   social_links:
     twitter: diegobiavati
