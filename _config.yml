@@ -1,17 +1,15 @@
 theme: minima
 title: Diego Eduardo Ferreira Biavati
 description: Página Pessoal
-author: Diego Eduardo Ferreira Biavati
-email: diegobiavati@gmail.com
+author:
+  name: Diego Eduardo Ferreira Biavati
+  email: diegobiavati@gmail.com
 url: https://diegobiavati.github.io
 google_analytics: UA-117510135-1
 plugins:
   - jekyll-feed
-  - jekyll-mentions
   - jekyll-seo-tag
-  - jekyll-sitemap
-  - jemoji
-markdown: GFM #GFM ou kramdown
+markdown: kramdown #GFM ou kramdown
 minima:
   social_links:
     twitter: diegobiavati
