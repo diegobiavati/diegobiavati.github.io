@@ -82,7 +82,9 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 | Preto/Negro                    |  55 |  52 |  53 |   0 |   0 |   0 | 100 |
 | Calçado (Preto)                |  38 |  48 |  54 |  40 |   0 |   0 | 100 |
 | Vermelho                       | 237 |  50 |  55 |   0 | 100 | 100 |   0 |
-| Vermelho-Tecido/Grená/Garança  | 127 |  52 |  54 |  30 |  95 |  85 |  40 |
+| Vermelho (Tecido/Grená/Garança)| 127 |  52 |  54 |  30 |  95 |  85 |  40 |
+| Caatinga (Couro)               | 226 | 154 |  78 |  40 |  80 |  10 |   0 |
+| Caatinga (Tecido)              | 202 | 191 | 140 |   0 |   3 |  40 |  25 |
 
 ## Referências ##
 [^1]: [Regulamento de Uniformes do Exército (RUE)](http://pt.calameo.com/read/00123820631730600fea9)
