@@ -88,5 +88,11 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 | Uniforme da FEB  (Caqui-Esverdeado) | 107 | 101 |  78 |  55 |  50 |  75 |  30 |
 | Uniforme da FEB  (Verde-FEB)        | 129 | 123 | 112 |  50 |  45 |  55 |  15 |
 
+## Cores ##
+
+|                 NOME                |  R  |  G  |  B  |  C  |  M  |  Y  |  K  |
+|:-----------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Amarelo                             | 255 | 242 |  18 |   0 |   0 | 100 |   0 |
+
 ## Referências ##
 [^1]: [Regulamento de Uniformes do Exército (RUE)](http://pt.calameo.com/read/00123820631730600fea9)
