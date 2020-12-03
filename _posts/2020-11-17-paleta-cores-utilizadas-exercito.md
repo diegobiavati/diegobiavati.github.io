@@ -94,6 +94,7 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 |:-----------------------------------:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Amarelo                             | 255 | 242 |  18 |   0 |   0 | 100 |   0 |
 | Amarelo Médio                       | 255 | 231 |  33 |   0 |  10 | 100 |   0 |
+| Amarelo Ouro                        | 255 | 204 |  41 |   0 |  20 | 100 |   0 |
 
 ## Referências ##
 [^1]: [Regulamento de Uniformes do Exército (RUE)](http://pt.calameo.com/read/00123820631730600fea9)
