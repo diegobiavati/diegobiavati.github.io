@@ -97,6 +97,10 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 | Amarelo-Ouro                        | 255 | 204 |  41 |   0 |  20 | 100 |   0 |
 | Verde-Folha (Claro)                 | 168 | 207 |  69 |  40 |   0 | 100 |   0 |
 | Verde                               |   0 | 168 |  89 | 100 |   0 | 100 |   0 |
+| Verde-Aviação                       |  97 | 100 |  87 |  62 |  50 |  67 |  30 |
+| Verde-Aviação                       |  97 | 100 |  87 |  62 |  50 |  67 |  30 |
+| Verde-Oliva                         |  74 |  84 |  66 |  77 |  60 |  85 |  35 |
 
 ## Referências ##
+
 [^1]: [Regulamento de Uniformes do Exército (RUE)](http://pt.calameo.com/read/00123820631730600fea9)
