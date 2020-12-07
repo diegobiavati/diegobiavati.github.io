@@ -100,6 +100,8 @@ Baixe uma paleta [:art: GIMP](https://raw.githubusercontent.com/diegobiavati/gui
 | Verde-Aviação                       |  97 | 100 |  87 |  62 |  50 |  67 |  30 |
 | Verde-Aviação                       |  97 | 100 |  87 |  62 |  50 |  67 |  30 |
 | Verde-Oliva                         |  74 |  84 |  66 |  77 |  60 |  85 |  35 |
+| Azul-Turquesa                       | 145 | 216 | 247 |  40 |   0 |   0 |   0 |
+| Azul-Celeste                        |   0 | 152 | 218 | 100 |  20 |   0 |   0 |
 
 ## Referências ##
 
