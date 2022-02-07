@@ -4,7 +4,13 @@ date: 2020-11-17T15:34:30-03:00
 categories:
   - exercito
 tags:
-  - paleta cor eb rgb cmyk exercito brasileiro
+  - paleta
+  - cor
+  - eb
+  - rgb
+  - cmyk
+  - exercito
+  - brasileiro
 ---
 
 
