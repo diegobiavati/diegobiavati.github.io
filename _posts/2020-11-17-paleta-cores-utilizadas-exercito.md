@@ -2,7 +2,7 @@
 title: "Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro"
 date: 2020-11-17T15:34:30-03:00
 categories:
-  - exercito
+  - Exército
 tags:
   - paleta
   - cor
