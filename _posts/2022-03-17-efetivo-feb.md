@@ -13,4 +13,4 @@ tags:
 # Efetivo da Força Expedicionária Brasileira - FEB #
 
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTB-uVXeVTvg2PX6rxlXrwowKomwKKVFrK-sdBAgmjvKLT-J_PqQ1efoKu7YbnM5kZCBpT-nr8zmfRo/pubhtml?widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTB-uVXeVTvg2PX6rxlXrwowKomwKKVFrK-sdBAgmjvKLT-J_PqQ1efoKu7YbnM5kZCBpT-nr8zmfRo/pubhtml?widget=false&amp;headers=false"></iframe>
