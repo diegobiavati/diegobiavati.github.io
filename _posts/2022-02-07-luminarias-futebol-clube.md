@@ -73,6 +73,7 @@ Júlio César Calzavara
 1994 - Márcio Ferreira de Andrade - 1994
 Fábio Junqueira
 1997 - Danilo de Douza Leite - 1997
+
 ![Quaderna_com_estrela](https://user-images.githubusercontent.com/572651/160442382-aee644d2-3ed2-4493-9f5e-adddfa549a9d.png)
 
 ## Referências ##
