@@ -1,5 +1,5 @@
 ---
-title: "Paleta de cores RGB / CMYK utilizadas no âmbito do Exército Brasileiro"
+title: "A Origem da Quaderna do Exército Brasileiro"
 date: 2022-04-07T15:04:30-03:00
 categories:
   - Exército - EB
