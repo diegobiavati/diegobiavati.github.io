@@ -114,5 +114,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-issues_repo: diegobiavati/diegobiavati.github.io
