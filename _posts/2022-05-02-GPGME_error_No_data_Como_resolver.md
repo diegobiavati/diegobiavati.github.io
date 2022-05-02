@@ -13,7 +13,7 @@ tags:
 ---
 ## O Erro ###
 Você vai tentar atualizar o sistema ou instalar um pacote e quando você vai dar ENTER aparece a seguinte mensagem abaixo no seu terminal:
-{% highlight console %}
+{% highlight console linenos %}
 error: GPGME error: No data
 error: GPGME error: No data
 error: GPGME error: No data
@@ -38,7 +38,7 @@ Que erro é esse?
 A base de dados do seu sistema está inválida ou corrompida, com isso impossibilita de fazer atualizaçãoes ou até mesmo instalar um novo pacote.
 ## A Solução ##
 E para resolver, faça da seguinte forma:
-{% highlight shell %}
+{% highlight shell linenos %}
 $ sudo rm /var/lib/pacman/sync/*
 $ sudo pacman-key –init
 $ sudo pacman-key –populate archlinux manjaro
