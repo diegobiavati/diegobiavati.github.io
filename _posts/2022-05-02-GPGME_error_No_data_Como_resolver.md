@@ -34,10 +34,8 @@ error: database ‘basis-multilib’ is not valid (invalid or corrupted database
 error: database ‘multilib’ is not valid (invalid or corrupted database (PGP signature))
 ```
 Que erro é esse?
-
 ## O Problema ##
 A base de dados do seu sistema está inválida ou corrompida, com isso impossibilita de fazer atualizaçãoes ou até mesmo instalar um novo pacote.
-
 ## A Solução ##
 E para resolver, faça da seguinte forma:
 ```
