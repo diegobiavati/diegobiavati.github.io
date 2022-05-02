@@ -4,7 +4,7 @@ date: 2022-05-02T08:35:30-03:00
 categories:
   - Linux
   - Archlinux
-  - bugs
+  - Bugs
 tags:
   - linux
   - archlinux
