@@ -11,7 +11,7 @@ tags:
   - gpg
   - pacman
 layout: default
-comments: true
+comments: false
 ---
 ## O Erro ###
 Você vai tentar atualizar o sistema ou instalar um pacote e quando você vai dar ENTER aparece a seguinte mensagem abaixo no seu terminal:
