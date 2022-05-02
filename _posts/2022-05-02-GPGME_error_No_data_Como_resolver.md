@@ -14,6 +14,8 @@ tags:
 
 # GPGME error: No data. Como resolver? #
 
+## O Erro ###
+
 Você vai tentar atualizar o sistema ou instalar um pacote e quando você vai dar ENTER aparece a seguinte mensagem abaixo no seu terminal:
 
 ```
@@ -39,7 +41,11 @@ error: database ‘multilib’ is not valid (invalid or corrupted database (PGP 
 
 Que erro é esse?
 
+## O Problema ##
+
 A base de dados do seu sistema está inválida ou corrompida, com isso impossibilita de fazer atualizaçãoes ou até mesmo instalar um novo pacote.
+
+## A Solução ##
 
 E para resolver, faça da seguinte forma:
 
