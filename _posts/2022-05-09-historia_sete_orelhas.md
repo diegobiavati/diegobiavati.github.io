@@ -2,6 +2,7 @@
 title: "Januário Garcia, o Sete Orelhas - Jornal Policial apresentado por Wagner Montes"
 date: 2022-05-09T14:00:30-03:00
 categories:
+  - São Bento Abade
   - Hístórias
   - Lendas
 tags:
