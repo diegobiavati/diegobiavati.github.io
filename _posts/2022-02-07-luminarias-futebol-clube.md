@@ -3,6 +3,7 @@ title: "Luminárias Futebol Clube"
 date: 2022-02-07T15:34:30-03:00
 categories:
   - Luminárias
+  - História
 tags:
   - Luminárias
   - história
