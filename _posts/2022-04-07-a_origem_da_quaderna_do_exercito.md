@@ -72,3 +72,28 @@ Elos: 1º Momento: que faz lembrar que o sargento é o elo entre a tropa e o com
 A tradição de seu uso que, como vimos, foi iniciada há mais de  900 anos e, mesmo que hoje seu desenho tenha recebido poucas alterações, foi por felizes coincidências relacionadas ao número quatro, que acabou recebendo toda uma significação para os militares brasileiros, principalmente, aqueles formados nas Escolas de Formação de Sargentos, que ao passarem utilizá-la ela em seu peito, mesmo que não saibam sua origem, sabem que é a representação de horas a fio de esforço físico e mental, o reconhecimento da Pátria, por essas horas de dedicação e sacrifício.
 
 # Referências
+Chefe do Governo Provisório da República dos Estados Unidos do Brasil. 1931. Decreto nº 20.754, de 4 de Dezembro de 1931, Aprova o plano de uniformes dos oficiais e praças do Exército ativo e dá outras providências. N.p.: Diário Oficial da União.
+
+Comandante do Exército. 2017. “Portaria nº1600-Cmt Ex.” In Inclui dispositivos no Regulamento de Uniforme do Exército (RUE), 45. Brasília, DF: Secretaria-Geral do Exército.
+
+Escola de Sargentos das Armas. 2017. “Solenidade de Diplomação do CFS/2017 - ESA.” Youtube. Vídeo. https://www.youtube.com/watch?v=FwaBISppy_E&t=5393s.
+
+Escola de Sargentos das Armas - ESA. 1949. Revista a E.S.A nº 1 de 1949, Quantos somos e de onde viemos. 1ª Edição ed. Rio de Janeiro, RJ: n.p.
+
+Guimarães, Alexandre S. 1942. “Traços Biográficos de Martin Antonio de Sousa e seus descendentes.” In Revista Genealógica Brasileira nº 5 Ano III, 85. N.p.: Instituto Genealógico Brasileiro.
+
+Heraldic Artists Ltd. 1980. The Symbols of Heraldry Explained. N.p.: Heraldic Artists Limited.
+
+Loureiro, Luis G. 1951. “O Significado do Estandarte da Escola de Sargentos das Armas.” In A E.S.A., 4. III ed. Três Corações, MG: n.p.
+
+Ministério da Guerra. 1946. “Aviso nº 367, de 21 de março de 1946.” In Boletim do Exército nº 13, 893. 30th ed. Rio de Janeiro, RJ: Secretaria-Geral do Exército.
+
+Ministro do Estado do Exército. 1967. “2. Insígnias e Distintivos.” In Regulamento de Uniformes do Pessoal do Exército, 6. Rio de Janeiro, RJ: Secretaria-Geral do Exército.
+
+Ministro do Exército. 1988. “Portaria nº 1000, do Ministro do Exército.” In Boletim do Exército nº 42, 18. Brasília, DF: Secretaria-Geral do Exército.
+
+Presidência da República do Brasil. 1951. “Decreto nº 30.163.” In iário Oficial da União - Seção 1, 18444. Vol. Seção 1. Rio de Janeiro, Brasil: Imprensa Nacional.
+
+Priberam. n.d. “CADERNA.” Dicionário Priberam. Accessed March 24, 2022. https://dicionario.priberam.org/CADERNA.
+
+Vice-Presidente do Brasil. 1894. “Decreto nº 1729-A.” In Plano para os Uniformes dos Officiaes Effectivos, Reformados e Praças do Exercito, Alumnos das Escolas Militares, Collegio Militar, Invalidos da Patria e Escola de Sargentos, 528. Rio de Janeiro, RJ: Imprensa Nacional.
