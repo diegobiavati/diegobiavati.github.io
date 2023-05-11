@@ -12,3 +12,7 @@ tags:
   - história
 comments: true
 ---
+
+# Xingu
+A etimologia da palavra até hoje é desconhecida, estudiosos acreditam que  a tradução seria ”Casa dos Deuses”, sem a certeza de qual seria sua verdadeira raiz subjacente.
+Xingu significa "água boa, água limpa" na língua Kamayurá
