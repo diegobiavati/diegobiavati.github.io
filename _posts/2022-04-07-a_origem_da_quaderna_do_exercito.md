@@ -2,8 +2,9 @@
 title: "A Origem da Quaderna do Exército Brasileiro"
 date: 2022-04-07T15:04:30-03:00
 categories:
-  - Exército - EB
-  - Escola de Sargentos das Armas - ESA
+  - Exército
+  - ESA
+  - História
 tags:
   - quaderna
   - sargento
