@@ -2,13 +2,14 @@
 title: "Denominação Histórica do Batalhão: “BATALHÃO TERCEIRO-SARGENTO ANTÔNIO ALVES FERREIRA”"
 date: 2022-11-08T00:00:00-03:00
 categories:
-  - Exército - EB
-  - Escola de Sargentos das Armas - ESA
-  - Batalhão de Comando e Serviços da ESA - BCSv/ESA
-  - Militar
+  - Exército
+  - ESA
+  - BCSv/ESA
+  - História
 tags:
   - sargento
   - exército
+  - história
 comments: true
 ---
 O Batalhão de Comando e Serviços da Escola de Sargentos das Armas (BCSv/ESA) realizou, no dia 28 de outubro de 2022, a formatura que teve como finalidade a apresentação da Denominação Histórica do Batalhão: “BATALHÃO TERCEIRO-SARGENTO ANTÔNIO ALVES FERREIRA”.
