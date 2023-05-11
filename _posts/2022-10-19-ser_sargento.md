@@ -9,7 +9,7 @@ tags:
   - exército
   - militar
 ---
-O decálogo “Ser Sargento” foi elaborado pelo Sr Gen Ex Jarbas Bueno da Costa, antigo aluno deste Estb Ens e antigo Cmt ESA, com a finalidade de destacar para o corpo Permanente da ESA e para,
+O decálogo “Ser Sargento” foi elaborado pelo Sr Gen Ex *Jarbas* Bueno da Costa, antigo aluno deste Estb Ens e antigo Cmt ESA, com a finalidade de destacar para o corpo Permanente da ESA e para,
 principalmente, o corpo de Alunos da ESA, as características, as qualidades, as atitudes e os comportamentos que emolduram o perfil daqueles que têm a árdua, porém dignificante, missão de, ao
 início da carreira de praça, comandar as pequenas frações do EB.
 
