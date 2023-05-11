@@ -1,6 +1,6 @@
 ---
 title: "Ser Sargento - Decálogo do General de Exército Jarbas Bueno da Costa"
-date: 2022-10-19T12:00:00-03:00
+date: 2022-10-19T00:00:00-03:00
 categories:
   - Exército
   - ESA
