@@ -1,5 +1,5 @@
 ---
-title: "Denominação Histórica do Batalhão: “BATALHÃO TERCEIRO-SARGENTO ANTÔNIO ALVES FERREIRA”"
+title: "Termos famosos da Arma de Engenharia"
 date: 2022-05-11T07:46:00-03:00
 categories:
   - Exército - EB
